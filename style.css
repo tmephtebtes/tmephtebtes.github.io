@@ -1,0 +1,33 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    background-color: chartreuse;
+    padding: 20px;
+}
+.privet{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+    margin: 50px;
+}
+.abz{
+    font-family: 'Courier New', Courier, monospace;
+    font-size:larger;
+    margin:50px;
+}
+.pustota{
+    width: 50%;
+}
+img{
+    margin: -200px 700px;
+    padding: 0px 279px;
+}
+.mail{
+    background-color: chocolate;
+    font-size: large;
+    margin: 200px;
+    padding: 20px;
+}
+.logo{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: x-large;
+}
